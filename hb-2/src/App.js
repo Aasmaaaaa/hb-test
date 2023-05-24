@@ -1,23 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>INTERNATIONAL NGO</h1>
+      <p>
+        Welcome to our platform, bridging NGOs globally for shared projects,
+        ideas, and meaningful dialogue. Join us in driving positive change and
+        amplifying social impact through collaboration and collective action
+      </p>
     </div>
   );
 }
