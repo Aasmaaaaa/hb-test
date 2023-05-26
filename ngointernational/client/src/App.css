@@ -3,7 +3,7 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   margin: 75px;
   columns: 3;
-  background-color: rgb(34, 34, 173);
+  background-color: blue;
   color: white;
 }
 
@@ -11,18 +11,11 @@ body {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 1rem;
   background-color: white;
   box-sizing: border-box;
 }
 
 img {
   max-width: 250px;
-}
-
-@media (max-width: 767px) {
-  .container {
-    width: 100%;
-    padding: 20px;
-  }
 }
