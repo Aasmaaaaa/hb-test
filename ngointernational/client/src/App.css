@@ -3,7 +3,7 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   margin: 75px;
   columns: 3;
-  background-color: blue;
+  background-color: rgb(41, 41, 154);
   color: white;
 }
 
@@ -11,7 +11,7 @@ body {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 0.5rem;
   background-color: white;
   box-sizing: border-box;
 }
