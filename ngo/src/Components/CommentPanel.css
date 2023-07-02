@@ -1,0 +1,30 @@
+.comment-panel {
+    margin-top: 2rem;
+}
+
+.comment-panel h2 {
+    margin-bottom: 1rem;
+}
+
+.comment-panel ul {
+    list-style: none;
+    padding: 0;
+}
+
+.comment-panel li {
+    margin-bottom: 0.5rem;
+}
+
+.comment-panel form {
+    display: flex;
+    margin-top: 1rem;
+}
+
+.comment-panel input {
+    flex-grow: 1;
+    margin-right: 1rem;
+}
+
+.comment-panel button {
+    padding: 0.5rem 1rem;
+}
